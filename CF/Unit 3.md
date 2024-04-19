@@ -6,9 +6,9 @@
     - Complaints can originate from individuals, organizations, or law enforcement agencies.
 2. **Investigation Stage**:
     
-    - Upon receiving the complaint, investigators start gathering and analyzing digital evidence to assess the alleged criminal activity.
-    - Data may be acquired from various sources like computers, servers, mobile devices, and electronic storage media.
-3. **Prosecution Stage**:
+	    - Upon receiving the complaint, investigators start gathering and analyzing digital evidence to assess the alleged criminal activity.
+	    - Data may be acquired from various sources like computers, servers, mobile devices, and electronic storage media.
+1. **Prosecution Stage**:
     
     - Once the investigation is complete and evidence is compiled, the case proceeds to the prosecution stage.
     - Prosecutors review the investigation findings to determine if there is sufficient evidence to press charges against the suspects.
