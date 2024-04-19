@@ -275,3 +275,25 @@ The structure of a report in computer forensics typically includes the following
 8. **Appendixes:** Include supplementary material like raw data, detailed analysis, or additional information supporting the main report content.
 
 Following this structured approach ensures that forensic reports are well-organized, comprehensive, and easily comprehensible for stakeholders and readers, enhancing the effectiveness of communication and presentation of investigative findings.
+
+## What is Digital Signature and Electronic Signature
+
+**Digital Signature**:
+A digital signature is a cryptographic technique used to authenticate the identity of the sender of a message or the signer of a document. It provides a way to ensure the integrity and authenticity of digital messages or documents. Here are key points about digital signatures:
+
+- **Authentication**: A digital signature allows the recipient of a message or document to verify that it was indeed sent by the claimed sender.
+- **Integrity**: It ensures that the content of the message or document has not been altered or tampered with during transmission.
+- **Asymmetric Cryptosystem**: Digital signatures are created using asymmetric cryptography, where a private key is used to sign the message, and a corresponding public key is used to verify the signature.
+- **Hash Function**: A hash function is typically used in the digital signature process to create a unique digital fingerprint of the message, which is then encrypted with the sender's private key.
+- **Non-Repudiation**: Digital signatures provide non-repudiation, meaning that the sender cannot deny sending the message or signing the document.
+
+**Electronic Signature**:
+An electronic signature is a broader term that encompasses various methods used to sign electronic documents or records. It can include digital signatures but is not limited to them. Here are some key points about electronic signatures:
+
+- **Authentication**: Like digital signatures, electronic signatures are used to authenticate the identity of the signer.
+- **Types**: Electronic signatures can take various forms, including scanned signatures, typed names, biometric signatures, or even a simple click on an "I agree" button.
+- **Legal Recognition**: Many countries have laws that recognize electronic signatures as legally binding, provided certain criteria are met.
+- **Versatility**: Electronic signatures are used in a wide range of applications, from signing contracts and agreements to authorizing electronic transactions.
+- **Regulations**: Different jurisdictions may have specific regulations regarding the use and acceptance of electronic signatures.
+
+In summary, while digital signatures are a specific type of electronic signature that relies on cryptographic techniques for security and authenticity, electronic signatures encompass a broader range of methods used to sign electronic documents. Both play crucial roles in ensuring the integrity and authenticity of digital communications and transactions.
